@@ -276,6 +276,8 @@ header{
     margin: 0;
 }
 
+
+
 .navbar > button {
     padding: 1rem 3rem;
 }
@@ -321,6 +323,9 @@ header{
     .card > .inside > p {
         padding-inline: 0;
     
+    }
+    .card > img{
+        width: 50%;
     }
 
     .card > button {
